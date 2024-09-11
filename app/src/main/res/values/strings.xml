@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Laboratorio2</string>
+    <string-array name="localidades">
+        <item>Escoge una localidad</item>
+        <item>Centro Histórico</item>
+        <item>Chapinero</item>
+        <item>La Candelaria</item>
+        <item>Suba</item>
+        <item>Usaquén</item>
+        <item>Teusaquillo</item>
+        <item>San Cristóbal</item>
+        <item>Ciudad Bolívar</item>
+        <item>Usme</item>
+        <item>Fontibón</item>
+        <item>Bosa</item>
+        <item>Rafael Uribe Uribe</item>
+        <item>Engativá</item>
+        <item>Sumapaz</item>
+    </string-array>
+</resources>
